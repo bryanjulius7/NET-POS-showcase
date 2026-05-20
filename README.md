@@ -150,6 +150,38 @@ A shift-based cash drawer workflow designed for real-world retail and F&B operat
 ## Code Sample
 
 [View shift management snippet](code-samples/shift_management_snippet.dart)
+
+---
+
+# Central Kitchen Ordering
+
+An internal ordering workflow that allows outlets to request supplies from the central kitchen.
+
+## Highlights
+
+- Item selection workflow
+- Quantity stepper controls
+- Selected item and total quantity tracking
+- Order confirmation screen
+- Requested order history
+- Order status tracking
+- Confirmed / Requested / Rejected status indicators
+
+## Screenshots
+
+![Central Kitchen Order](screenshots/central-kitchen-order.png)
+
+![Central Kitchen Confirm](screenshots/central-kitchen-confirm.png)
+
+![Central Kitchen Requested](screenshots/central-kitchen-requested.png)
+
+![Central Kitchen Detail](screenshots/central-kitchen-detail.png)
+
+## Code Sample
+
+[View central kitchen snippet](code-samples/central_kitchen_snippet.dart)
+
+
 ---
 
 # Architecture Notes
