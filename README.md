@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="assets/netpos-logo.png" width="700"/>
+</p>
+<p align="center">
   <img src="assets/netpos-banner.png" width="700"/>
 </p>
 
