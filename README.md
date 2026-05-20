@@ -1,4 +1,4 @@
-# NETech POS Showcase
+# NET POS Showcase
 
 A Flutter + Firebase POS system designed for hawker centres and coffee shops in Singapore.
 
