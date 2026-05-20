@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/netpos-logo.png" width="400"/>
+  <img src="assets/netpos-logo.png" width="200"/>
 </p>
 <p align="center">
-  <img src="assets/netpos-banner.png" width="400"/>
+  <img src="assets/netpos-banner.png" width="200"/>
 </p>
 
 <p align="center">
