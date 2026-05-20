@@ -182,6 +182,34 @@ An internal ordering workflow that allows outlets to request supplies from the c
 [View central kitchen snippet](code-samples/central_kitchen_snippet.dart)
 
 
+
+---
+
+# Item Management & Grid Editor
+
+A POS item management and grid customization workflow for configuring how items appear on the checkout screen.
+
+## Highlights
+
+- Active item list
+- Searchable item management view
+- Item image / color display
+- Price and discount display
+- Editable POS grid
+- Assign item to grid slot
+- Multi-page checkout layout
+- Drag-and-drop grid rearrangement
+
+## Screenshots
+
+![Item Assignment](screenshots/item-assign.png)
+
+![Items List](screenshots/items.png)
+
+## Code Sample
+
+[View checkout page snippet](code-samples/checkout_page_snippet.dart)
+
 ---
 
 # Architecture Notes
