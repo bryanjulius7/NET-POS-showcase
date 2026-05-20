@@ -210,6 +210,35 @@ A POS item management and grid customization workflow for configuring how items 
 
 [View checkout page snippet](code-samples/checkout_page_snippet.dart)
 
+
+---
+
+# Attendance Workflow
+
+A staff attendance workflow designed for clock-in and clock-out tracking in a POS environment.
+
+## Highlights
+
+- Device session display
+- Open clock-in session list
+- Staff clock-in workflow
+- Staff clock-out workflow
+- 4-digit PIN verification
+- Attendance confirmation screen
+- Optional camera/photo capture in production flow
+
+## Screenshots
+
+![Attendance Dashboard](screenshots/attendance.png)
+
+![Clock In PIN](screenshots/attendance-clock-in.png)
+
+![Clock Out PIN](screenshots/attendance-clock-out.png)
+
+## Code Sample
+
+[View attendance snippet](code-samples/attendance_snippet.dart)
+
 ---
 
 # Architecture Notes
