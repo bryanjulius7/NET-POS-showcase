@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/netpos-banner.png" width="700"/>
+</p>
+
+<p align="center">
+Production-grade Flutter + Firebase POS system for hawker centres and retail operations.
+</p>
+
+---
+
 # NET POS Showcase
 
 A Flutter + Firebase POS system designed for hawker centres and coffee shops in Singapore.
