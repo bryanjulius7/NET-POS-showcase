@@ -1,14 +1,22 @@
-# NETech POS Showcase
+## Checkout System
 
-A Flutter + Firebase POS system designed for hawker centres and coffee shops.
+A responsive POS checkout workflow built with Flutter.
 
-## Features
-- Checkout workflow
-- Shift-based cash drawer
-- Refund handling
-- Receipt generation
-- Attendance enforcement
-- Real-time Firestore updates
-- Multi-store support
+### Highlights
+- Dynamic item grid
+- Cart and quantity controls
+- Edit-grid mode
+- Promo/daily limit display
+- Responsive layout for wide and compact screens
 
-## Screenshots
+### Screenshots
+
+![Checkout Main](screenshots/checkout-main.png)
+
+![Checkout Cart](screenshots/checkout-cart.png)
+
+![Grid Editor](screenshots/checkout-grid-editor.png)
+
+### Code Sample
+
+[View checkout page snippet](code-samples/checkout_page_snippet.dart)
