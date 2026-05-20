@@ -122,6 +122,36 @@ A transaction management workflow designed for operational receipt tracking and 
 
 ---
 
+# Shift & Cash Drawer Management
+
+A shift-based cash drawer workflow designed for real-world retail and F&B operations.
+
+## Highlights
+
+- Opening cash workflow
+- Expected cash reconciliation
+- Pay in / pay out tracking
+- Drawer lifecycle management
+- Shift close reporting
+- Z-report support
+- Drawer history lookup
+- Real-time cash calculations
+
+## Screenshots
+
+![Shift Open](screenshots/shift-open.png)
+
+![Active Drawer](screenshots/shift-active.png)
+
+![Shift Close Report](screenshots/shift-close-report.png)
+
+![Drawer History](screenshots/drawer-history.png)
+
+## Code Sample
+
+[View shift management snippet](code-samples/shift_management_snippet.dart)
+---
+
 # Architecture Notes
 
 This showcase repository contains simplified public-safe snippets extracted from a larger production POS system.
