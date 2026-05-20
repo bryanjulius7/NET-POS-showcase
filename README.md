@@ -20,14 +20,16 @@ Production backend logic, Firestore security rules, and commercial business impl
 - Checkout workflow
 - Dynamic item grid
 - Cart and quantity management
-- Shift-based cash drawer workflow
 - Split payment system
-- Receipt generation
+- Transaction and receipt management
 - Refund handling
+- Void workflows
+- Receipt reprint workflow
 - Real-time Firestore updates
 - Multi-store support
-- Central kitchen ordering workflow
+- Central kitchen ordering
 - Attendance enforcement
+- Shift-based cash drawer system
 
 ---
 
@@ -95,6 +97,31 @@ A payment workflow designed for POS checkout operations.
 
 ---
 
+# Transaction & Receipt Details
+
+A transaction management workflow designed for operational receipt tracking and audit visibility.
+
+## Highlights
+
+- Receipt history lookup
+- Receipt detail breakdown
+- Void and refund actions
+- Transaction timestamps
+- Payment summaries
+- Receipt reprint workflow
+- Responsive master-detail layout
+- Refund status indicators
+
+## Screenshots
+
+![Transaction Details](screenshots/transaction-details.png)
+
+## Code Sample
+
+[View transaction & receipt snippet](code-samples/transaction_receipt_snippet.dart)
+
+---
+
 # Architecture Notes
 
 This showcase repository contains simplified public-safe snippets extracted from a larger production POS system.
@@ -107,6 +134,8 @@ The original system includes:
 - Multi-store architecture
 - Transaction validation
 - Operational business workflows
+- Cash drawer reconciliation
+- Attendance tracking workflows
 
 Sensitive production logic and backend implementations have been intentionally omitted.
 
@@ -123,6 +152,7 @@ Focus areas include:
 - real-world shop deployment workflows
 - payment integrity
 - shift tracking accuracy
+- receipt integrity safeguards
 
 ---
 
