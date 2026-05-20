@@ -1,22 +1,21 @@
-## Checkout System
+## Payment Flow
 
-A responsive POS checkout workflow built with Flutter.
+A payment workflow designed for POS checkout operations.
 
 ### Highlights
-- Dynamic item grid
-- Cart and quantity controls
-- Edit-grid mode
-- Promo/daily limit display
-- Responsive layout for wide and compact screens
+- Multiple payment methods
+- Cash received and change calculation
+- Manual discount input
+- Quick cash amount buttons
+- Split payment support
+- Remaining balance and change tracking
 
 ### Screenshots
 
-![Checkout Main](screenshots/checkout-main.png)
+![Payment Page](screenshots/payment-page.png)
 
-![Checkout Cart](screenshots/checkout-cart.png)
-
-![Grid Editor](screenshots/checkout-grid-editor.png)
+![Split Payment Page](screenshots/split-payment-page.png)
 
 ### Code Sample
 
-[View checkout page snippet](code-samples/checkout_page_snippet.dart)
+[View payment flow snippet](code-samples/payment_flow_snippet.dart)
