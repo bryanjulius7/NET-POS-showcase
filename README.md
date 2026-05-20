@@ -291,4 +291,4 @@ Focus areas include:
 
 This repository is intended for portfolio and technical showcase purposes only.
 
-It does not contain the full commercial implementation of NETech POS.
+It does not contain the full commercial implementation of NET POS.
